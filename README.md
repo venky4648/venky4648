@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KOTA VENKATESH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1742821363~exp=1742824963~hmac=35e972c2efb09de93f42de01cbcd570f443bc30afb342f661317e37d81c5c5b9&w=826" alt="img" />
 - 🌱 I’m currently learning **Reactjs,Web Development,databases**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kota-venkatesh-/](https://www.linkedin.com/in/kota-venkatesh-/)

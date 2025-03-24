@@ -1,6 +1,25 @@
 <h1 align="center">Hi 👋, I'm KOTA VENKATESH</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Developer with expertise in MERN stack . I'm passionate about creating efficient, user-centric web applications and exploring machine learning concepts.
+</h3>
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
+
 <img src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1742821363~exp=1742824963~hmac=35e972c2efb09de93f42de01cbcd570f443bc30afb342f661317e37d81c5c5b9&w=826" width="450px" align="right" alt="img" />
+
+## 🚀 About Me
+- 🎓 B.Tech in Artificial Intelligence and Machine Learning from Kakinada Institute of Engineering And Technology (2021-2025)
+- 💻 Full Stack Developer experienced with MERN stack and Python
+- 🌱 Currently exploring advanced concepts in Machine Learning and Full Stack Development
+- 👨‍🏫 Former Teaching Assistant for MERN stack development
+
 - 🌱 I’m currently learning **Reactjs,Web Development,databases**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kota-venkatesh-/](https://www.linkedin.com/in/kota-venkatesh-/)
